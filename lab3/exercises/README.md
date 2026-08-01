@@ -9,3 +9,7 @@ This directory contains the solutions for **Lab Session 3**, covering object-lik
 * **Exercise B — Defining & Implementing Traits:** 
   Creates a shared `Summary` trait implemented across distinct data structures.
 * **Exercise C — Custom Error Handling with `Result`:**
+
+* RESULTS
+  <img width="684" height="595" alt="Screenshot 2026-07-30 3 1" src="https://github.com/user-attachments/assets/e7e64cd2-6583-4d1b-a0b7-66a927b5da4a" />
+<img width="683" height="577" alt="Screenshot 2026-07-30 3 2" src="https://github.com/user-attachments/assets/8fdf04ce-853b-47fa-996a-cd7553ef9fec" />
